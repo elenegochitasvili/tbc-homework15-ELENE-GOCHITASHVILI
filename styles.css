@@ -1,0 +1,23 @@
+.col {
+    font-size: x-large;
+    border: white;
+    background-color: beige;
+}
+
+.dog {
+    margin-top: 100px;
+}
+
+.card {
+    display: inline-block;
+}
+
+.footer {
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.pagination {
+    margin-top: 100px;
+    margin-left: 300px;
+}
